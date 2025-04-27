@@ -8,19 +8,19 @@ I am a software developer with over 15 years of experience and currently expandi
 - Skilled in Python, Scikit-learn, NumPy, Pandas, and machine learning algorithms like Gradient Boosting, Random Forest, and Logistic Regression.
 - Interested in applying AI/ML techniques to real-world problems and cloud-based solutions.
 
-## Projects Overview
+## Project Overview
 
 # Codeforces Rank & Rating Prediction Using Machine Learning 
 Contents
   1.	Abstract
   2.	Introduction
-  3.	Methodology and Model Deployment
+  3.	Methodology and Model Deployment  
       3.1	Data Preprocessing
           -	Dataset Cleaning
           -	Feature Transformation
           -	Feature Selection
           -	Data Splitting
-          -	Feature Scaling
+          -	Feature Scaling  
       3.2	Model Selection and Training
           -	Best Regression Model Selection
           -	Best Classification Model Selection
