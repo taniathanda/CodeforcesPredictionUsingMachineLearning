@@ -21,7 +21,7 @@ Contents
           -	Feature Selection
           -	Data Splitting
           -	Feature Scaling  
-      3.2	Model Selection and Training
+  3.2	Model Selection and Training
           -	Best Regression Model Selection
           -	Best Classification Model Selection
           -	Hyperparameter Tuning on Best Models
