@@ -1,5 +1,5 @@
 
-Welcome to my Machine Learning projects repository!  
+Welcome to my Machine Learning project repository!  
 I am a software developer with over 15 years of experience and currently expanding my expertise in Artificial Intelligence and Machine Learning through postgraduate studies.
 
 ## About Me
